@@ -1,0 +1,29 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Experiment logs
+wandb/
+runs/
+
+# Large datasets and recordings
+data/
+*.mp4
+*.mov
+
+# Model weights and generated engines
+*.pt
+*.onnx
+*.engine
+
+# Keep TensorRT submission evidence
+!docs/TensorRT_Submission.zip

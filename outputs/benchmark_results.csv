@@ -1,0 +1,3 @@
+model,device,average_ms,fps
+PyTorch,mps,7.81,128.01
+ONNX,cpu,14.57,68.65

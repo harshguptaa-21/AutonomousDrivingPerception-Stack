@@ -160,4 +160,4 @@ This project demonstrates a modular computer vision perception workflow and comp
 The TensorRT experiment achieved approximately 1.98× lower-latency inference speedup under the measured benchmark conditions. Further work includes simulation, ROS2 integration, and more robust lane and depth perception.
 ## Project Demo
 
-[Watch Demo Video](PASTE_GOOGLE_DRIVE_LINK_HERE)
+[Watch Demo Video](https://drive.google.com/file/d/1iy4lGO_Pm9oL_oFLBye8fFXuHc3Bp7_Y/view?usp=sharing)

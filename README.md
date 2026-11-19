@@ -1,3 +1,37 @@
+# Nexvia Technologies AI/ML Internship Projects
+
+**Submitted by:** Harsh Gupta
+
+This repository contains two AI/ML internship projects.
+
+## Project 1: Autonomous Driving Perception Stack
+
+Object detection using YOLO11n, vehicle tracking using ByteTrack,
+lane detection using OpenCV, and relative depth estimation using MiDaS.
+
+Includes ONNX export, TensorRT FP16 optimization, benchmarking,
+architecture documentation, and a recorded demonstration.
+
+## Project 2: Movie Recommendation System
+
+A two-stage recommendation system using TensorFlow, FAISS,
+and a deep learning ranking model.
+
+Includes a Streamlit interface, trained models, evaluation scripts,
+and a recorded demonstration.
+
+### Project Files
+
+- [Autonomous Driving Source Code](src/)
+- [Movie Recommendation System](Movie-Recommendation-System/)
+- [Movie Recommendation Demo](Movie-Recommendation-System/movie_demo.mov)
+- [Architecture and Presentation](docs/)
+
+## Current Limitations
+
+CARLA/ROS2 integration and some additional infrastructure
+components remain future work.
+
 # Autonomous Driving Perception Stack
 
 An AI-based autonomous driving perception project integrating object detection, object tracking, lane detection, relative depth estimation, and NVIDIA TensorRT optimization.

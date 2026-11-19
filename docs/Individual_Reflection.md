@@ -27,6 +27,16 @@ These experiences taught me the importance of testing individual components befo
 
 The completed work represents a perception and optimization prototype rather than a fully autonomous driving system. CARLA and ROS2 integration, additional model fine-tuning and real-time vehicle control remain future development goals.
 
+## Movie Recommendation System: Individual Reflection
+
+During this project, I learned how a two-stage recommendation system combines retrieval and ranking to generate personalized movie suggestions.
+
+I worked with Python, TensorFlow, FAISS, and Streamlit to build and test the recommendation workflow. The retrieval stage identifies candidate movies using learned embeddings, while the ranking stage predicts ratings and sorts the results.
+
+One challenge was managing the dependencies and saved model files required to run the application. I also learned how to organize project code, document the implementation, and present the results through a working demonstration.
+
+This project improved my understanding of recommendation systems, machine learning pipelines, model inference, and practical application development.
+
 ## Conclusion
 
 This internship strengthened my practical understanding of machine learning, computer vision, model deployment and performance optimization. More importantly, it helped me become more confident in debugging technical problems, interpreting benchmark results and documenting my work.
